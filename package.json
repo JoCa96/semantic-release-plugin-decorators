@@ -2,6 +2,7 @@
   "name": "@joca96/semantic-release-plugin-decorators",
   "version": "0.0.0-development",
   "main": "src/index.js",
+  "private": false,
   "repository": "https://github.com/JoCa96/semantic-release-plugin-decorators.gits",
   "scripts": {
     "format": "prettier --write --single-quote --trailing-comma es5",
