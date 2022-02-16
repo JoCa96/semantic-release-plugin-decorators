@@ -1,6 +1,6 @@
 {
   "name": "@joca96/semantic-release-plugin-decorators",
-  "version": "0.0.0-development",
+  "version": "3.0.2",
   "main": "src/index.js",
   "private": false,
   "repository": "https://github.com/JoCa96/semantic-release-plugin-decorators.gits",
